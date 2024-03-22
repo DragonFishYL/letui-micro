@@ -1,8 +1,8 @@
 package reader
 
 import (
-	"go-micro.dev/v4/config/encoder"
-	"go-micro.dev/v4/config/encoder/json"
+	"letui-micro/config/encoder"
+	"letui-micro/config/encoder/json"
 )
 
 type Options struct {

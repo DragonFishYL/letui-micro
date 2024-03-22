@@ -5,7 +5,7 @@ import (
 	"sync"
 	"time"
 
-	"go-micro.dev/v4/registry"
+	"letui-micro/registry"
 )
 
 func init() {

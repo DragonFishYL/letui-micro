@@ -4,8 +4,8 @@ package loader
 import (
 	"context"
 
-	"go-micro.dev/v4/config/reader"
-	"go-micro.dev/v4/config/source"
+	"letui-micro/config/reader"
+	"letui-micro/config/source"
 )
 
 // Loader manages loading sources

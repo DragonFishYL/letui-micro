@@ -2,14 +2,14 @@ package config
 
 import (
 	"bytes"
+	"letui-micro/config/reader/json"
 	"sync"
 	"time"
 
-	"go-micro.dev/v4/config/loader"
-	"go-micro.dev/v4/config/loader/memory"
-	"go-micro.dev/v4/config/reader"
-	"go-micro.dev/v4/config/reader/json"
-	"go-micro.dev/v4/config/source"
+	"letui-micro/config/loader"
+	"letui-micro/config/loader/memory"
+	"letui-micro/config/reader"
+	"letui-micro/config/source"
 )
 
 type config struct {

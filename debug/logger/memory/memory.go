@@ -3,9 +3,9 @@ package memory
 
 import (
 	"fmt"
-	"go-micro.dev/v4/debug/logger"
+	"letui-micro/debug/logger"
 
-	"go-micro.dev/v4/util/ring"
+	"letui-micro/util/ring"
 )
 
 var (

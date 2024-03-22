@@ -1,7 +1,7 @@
 package bytes
 
 import (
-	"go-micro.dev/v4/codec"
+	"letui-micro/codec"
 )
 
 type Marshaler struct{}

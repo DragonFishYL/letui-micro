@@ -4,7 +4,7 @@ import (
 	"os"
 	"testing"
 
-	"go-micro.dev/v4/registry"
+	"letui-micro/registry"
 )
 
 func TestRegistrySelector(t *testing.T) {

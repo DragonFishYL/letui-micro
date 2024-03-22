@@ -6,10 +6,9 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/urfave/cli/v2"
-	"go-micro.dev/v4"
-	"go-micro.dev/v4/logger"
-	"go-micro.dev/v4/registry"
+	"letui-micro"
+	"letui-micro/logger"
+	"letui-micro/registry"
 )
 
 // Options for web

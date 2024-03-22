@@ -1,5 +1,5 @@
 // Package log is a global internal logger
-// DEPRECATED: this is frozen package, use go-micro.dev/v4/logger
+// DEPRECATED: this is frozen package, use letui-micro/logger
 package logger
 
 import (
@@ -7,8 +7,8 @@ import (
 	"os"
 	"sync/atomic"
 
-	dlog "go-micro.dev/v4/debug/logger"
-	nlog "go-micro.dev/v4/logger"
+	dlog "letui-micro/debug/logger"
+	nlog "letui-micro/logger"
 )
 
 // level is a log level

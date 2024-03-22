@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"reflect"
 
-	"go-micro.dev/v4/registry"
+	"letui-micro/registry"
 )
 
 const (

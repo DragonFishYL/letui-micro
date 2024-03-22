@@ -14,8 +14,8 @@ import (
 
 	"github.com/nxadm/tail"
 
-	log "go-micro.dev/v4/logger"
-	"go-micro.dev/v4/runtime/local/git"
+	log "letui-micro/logger"
+	"letui-micro/runtime/local/git"
 )
 
 // defaultNamespace to use if not provided as an option

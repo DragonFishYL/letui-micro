@@ -5,11 +5,10 @@ import (
 	"os"
 	"testing"
 
-	"github.com/urfave/cli/v2"
-	"go-micro.dev/v4"
-	"go-micro.dev/v4/config"
-	"go-micro.dev/v4/config/source"
-	"go-micro.dev/v4/util/cmd"
+	"letui-micro"
+	"letui-micro/config"
+	"letui-micro/config/source"
+	"letui-micro/util/cmd"
 )
 
 func TestCliSourceDefault(t *testing.T) {

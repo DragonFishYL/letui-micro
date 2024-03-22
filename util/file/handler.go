@@ -8,10 +8,10 @@ import (
 
 	"golang.org/x/net/context"
 
-	"go-micro.dev/v4/errors"
-	log "go-micro.dev/v4/logger"
-	"go-micro.dev/v4/server"
-	proto "go-micro.dev/v4/util/file/proto"
+	"letui-micro/errors"
+	log "letui-micro/logger"
+	"letui-micro/server"
+	proto "letui-micro/util/file/proto"
 )
 
 // NewHandler is a handler that can be registered with a micro Server

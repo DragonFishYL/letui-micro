@@ -4,12 +4,12 @@ import (
 	"context"
 	"time"
 
-	"go-micro.dev/v4/broker"
-	"go-micro.dev/v4/codec"
-	"go-micro.dev/v4/logger"
-	"go-micro.dev/v4/registry"
-	"go-micro.dev/v4/selector"
-	"go-micro.dev/v4/transport"
+	"letui-micro/broker"
+	"letui-micro/codec"
+	"letui-micro/logger"
+	"letui-micro/registry"
+	"letui-micro/selector"
+	"letui-micro/transport"
 )
 
 type Options struct {

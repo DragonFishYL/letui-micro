@@ -3,20 +3,20 @@ package handler
 
 import (
 	"context"
-	"go-micro.dev/v4/debug/logger"
+	"letui-micro/debug/logger"
 	"time"
 
-	"go-micro.dev/v4/client"
-	proto "go-micro.dev/v4/debug/proto"
-	"go-micro.dev/v4/debug/stats"
-	"go-micro.dev/v4/debug/trace"
-	"go-micro.dev/v4/server"
+	"letui-micro/client"
+	proto "letui-micro/debug/proto"
+	"letui-micro/debug/stats"
+	"letui-micro/debug/trace"
+	"letui-micro/server"
 )
 
 // NewHandler returns an instance of the Debug Handler
 func NewHandler(c client.Client) *Debug {
 	return &Debug{
-		log: logger.DefaultLog,
+		log:   logger.DefaultLog,
 		stats: stats.DefaultStats,
 		trace: trace.DefaultTracer,
 	}

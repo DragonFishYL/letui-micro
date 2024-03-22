@@ -8,12 +8,12 @@ import (
 	"strings"
 	"sync"
 
-	"go-micro.dev/v4/api/router"
-	"go-micro.dev/v4/api/router/util"
-	log "go-micro.dev/v4/logger"
-	"go-micro.dev/v4/metadata"
-	"go-micro.dev/v4/registry"
-	rutil "go-micro.dev/v4/util/registry"
+	"letui-micro/api/router"
+	"letui-micro/api/router/util"
+	log "letui-micro/logger"
+	"letui-micro/metadata"
+	"letui-micro/registry"
+	rutil "letui-micro/util/registry"
 )
 
 type endpoint struct {

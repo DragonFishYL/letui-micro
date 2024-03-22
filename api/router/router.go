@@ -4,7 +4,7 @@ package router
 import (
 	"net/http"
 
-	"go-micro.dev/v4/registry"
+	"letui-micro/registry"
 )
 
 // Router is used to determine an endpoint for a request

@@ -8,9 +8,9 @@ import (
 	"strings"
 
 	"github.com/oxtoacart/bpool"
-	api "go-micro.dev/v4/api/proto"
-	"go-micro.dev/v4/registry"
-	"go-micro.dev/v4/selector"
+	api "letui-micro/api/proto"
+	"letui-micro/registry"
+	"letui-micro/selector"
 )
 
 var (

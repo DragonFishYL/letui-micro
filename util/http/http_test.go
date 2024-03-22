@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"testing"
 
-	"go-micro.dev/v4/registry"
+	"letui-micro/registry"
 )
 
 func TestRoundTripper(t *testing.T) {

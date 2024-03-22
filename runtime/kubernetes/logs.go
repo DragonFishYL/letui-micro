@@ -9,9 +9,9 @@ import (
 	"strconv"
 	"time"
 
-	"go-micro.dev/v4/runtime"
-	"go-micro.dev/v4/util/kubernetes/client"
-	"go-micro.dev/v4/util/logger"
+	"letui-micro/runtime"
+	"letui-micro/util/kubernetes/client"
+	"letui-micro/util/logger"
 )
 
 type klog struct {

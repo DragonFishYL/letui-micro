@@ -7,9 +7,9 @@ import (
 	"regexp"
 	"strings"
 
-	"go-micro.dev/v4/api/router"
-	"go-micro.dev/v4/registry"
-	"go-micro.dev/v4/server"
+	"letui-micro/api/router"
+	"letui-micro/registry"
+	"letui-micro/server"
 )
 
 // The gateway interface provides a way to

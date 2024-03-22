@@ -12,18 +12,16 @@ import (
 	"sync"
 	"time"
 
-	"github.com/urfave/cli/v2"
+	"letui-micro"
 
-	"go-micro.dev/v4"
-
-	log "go-micro.dev/v4/logger"
-	"go-micro.dev/v4/registry"
-	maddr "go-micro.dev/v4/util/addr"
-	"go-micro.dev/v4/util/backoff"
-	mhttp "go-micro.dev/v4/util/http"
-	mnet "go-micro.dev/v4/util/net"
-	signalutil "go-micro.dev/v4/util/signal"
-	mls "go-micro.dev/v4/util/tls"
+	log "letui-micro/logger"
+	"letui-micro/registry"
+	maddr "letui-micro/util/addr"
+	"letui-micro/util/backoff"
+	mhttp "letui-micro/util/http"
+	mnet "letui-micro/util/net"
+	signalutil "letui-micro/util/signal"
+	mls "letui-micro/util/tls"
 )
 
 type service struct {

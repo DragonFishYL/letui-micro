@@ -1,7 +1,7 @@
 package client
 
 import (
-	"go-micro.dev/v4/codec"
+	"letui-micro/codec"
 )
 
 type rpcRequest struct {

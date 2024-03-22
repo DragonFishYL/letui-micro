@@ -15,10 +15,10 @@ import (
 	"golang.org/x/net/http2"
 	"golang.org/x/net/http2/h2c"
 
-	maddr "go-micro.dev/v4/util/addr"
-	"go-micro.dev/v4/util/buf"
-	mnet "go-micro.dev/v4/util/net"
-	mls "go-micro.dev/v4/util/tls"
+	maddr "letui-micro/util/addr"
+	"letui-micro/util/buf"
+	mnet "letui-micro/util/net"
+	mls "letui-micro/util/tls"
 )
 
 type httpTransport struct {

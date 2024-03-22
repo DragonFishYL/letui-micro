@@ -3,19 +3,19 @@ package cmd
 import (
 	"context"
 
-	"go-micro.dev/v4/auth"
-	"go-micro.dev/v4/broker"
-	"go-micro.dev/v4/cache"
-	"go-micro.dev/v4/client"
-	"go-micro.dev/v4/config"
-	"go-micro.dev/v4/debug/profile"
-	"go-micro.dev/v4/debug/trace"
-	"go-micro.dev/v4/registry"
-	"go-micro.dev/v4/runtime"
-	"go-micro.dev/v4/selector"
-	"go-micro.dev/v4/server"
-	"go-micro.dev/v4/store"
-	"go-micro.dev/v4/transport"
+	"letui-micro/auth"
+	"letui-micro/broker"
+	"letui-micro/cache"
+	"letui-micro/client"
+	"letui-micro/config"
+	"letui-micro/debug/profile"
+	"letui-micro/debug/trace"
+	"letui-micro/registry"
+	"letui-micro/runtime"
+	"letui-micro/selector"
+	"letui-micro/server"
+	"letui-micro/store"
+	"letui-micro/transport"
 )
 
 type Options struct {

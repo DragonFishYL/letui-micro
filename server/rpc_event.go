@@ -1,8 +1,8 @@
 package server
 
 import (
-	"go-micro.dev/v4/broker"
-	"go-micro.dev/v4/transport"
+	"letui-micro/broker"
+	"letui-micro/transport"
 )
 
 // event is a broker event we handle on the server transport

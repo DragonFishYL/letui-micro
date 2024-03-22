@@ -3,7 +3,7 @@ package json
 import (
 	"encoding/json"
 
-	"go-micro.dev/v4/config/encoder"
+	"letui-micro/config/encoder"
 )
 
 type jsonEncoder struct{}

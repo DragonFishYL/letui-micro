@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"go-micro.dev/v4/config/source"
+	"letui-micro/config/source"
 )
 
 func TestEnv_Read(t *testing.T) {

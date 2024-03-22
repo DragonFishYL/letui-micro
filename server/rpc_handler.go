@@ -3,7 +3,7 @@ package server
 import (
 	"reflect"
 
-	"go-micro.dev/v4/registry"
+	"letui-micro/registry"
 )
 
 type rpcHandler struct {

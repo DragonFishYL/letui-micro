@@ -4,7 +4,7 @@ package socket
 import (
 	"io"
 
-	"go-micro.dev/v4/transport"
+	"letui-micro/transport"
 )
 
 // Socket is our pseudo socket for transport.Socket

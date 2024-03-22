@@ -9,8 +9,8 @@ import (
 	"github.com/google/uuid"
 	"github.com/pkg/errors"
 
-	log "go-micro.dev/v4/logger"
-	"go-micro.dev/v4/store"
+	log "letui-micro/logger"
+	"letui-micro/store"
 )
 
 // NewStream returns an initialized memory stream

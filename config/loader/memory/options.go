@@ -1,9 +1,9 @@
 package memory
 
 import (
-	"go-micro.dev/v4/config/loader"
-	"go-micro.dev/v4/config/reader"
-	"go-micro.dev/v4/config/source"
+	"letui-micro/config/loader"
+	"letui-micro/config/reader"
+	"letui-micro/config/source"
 )
 
 // WithSource appends a source to list of sources

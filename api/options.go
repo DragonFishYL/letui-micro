@@ -1,7 +1,7 @@
 package api
 
 import (
-	"go-micro.dev/v4/api/router"
+	"letui-micro/api/router"
 )
 
 func NewOptions(opts ...Option) Options {

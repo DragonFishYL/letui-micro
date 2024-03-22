@@ -4,12 +4,12 @@ import (
 	"context"
 	"strings"
 
-	"go-micro.dev/v4/auth"
-	"go-micro.dev/v4/client"
-	"go-micro.dev/v4/debug/stats"
-	"go-micro.dev/v4/debug/trace"
-	"go-micro.dev/v4/metadata"
-	"go-micro.dev/v4/server"
+	"letui-micro/auth"
+	"letui-micro/client"
+	"letui-micro/debug/stats"
+	"letui-micro/debug/trace"
+	"letui-micro/metadata"
+	"letui-micro/server"
 )
 
 type fromServiceWrapper struct {

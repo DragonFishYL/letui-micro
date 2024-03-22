@@ -4,7 +4,7 @@ import (
 	"context"
 	"time"
 
-	"go-micro.dev/v4/logger"
+	"letui-micro/logger"
 )
 
 // Options represents the options for the cache.

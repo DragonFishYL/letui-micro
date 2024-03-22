@@ -3,7 +3,7 @@ package file
 import (
 	"testing"
 
-	"go-micro.dev/v4/config/source"
+	"letui-micro/config/source"
 )
 
 func TestFormat(t *testing.T) {

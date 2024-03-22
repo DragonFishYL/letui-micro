@@ -6,7 +6,7 @@ import (
 	"io"
 	"sync"
 
-	"go-micro.dev/v4/codec"
+	"letui-micro/codec"
 )
 
 // Implements the streamer interface

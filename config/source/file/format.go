@@ -3,7 +3,7 @@ package file
 import (
 	"strings"
 
-	"go-micro.dev/v4/config/encoder"
+	"letui-micro/config/encoder"
 )
 
 func format(p string, e encoder.Encoder) string {

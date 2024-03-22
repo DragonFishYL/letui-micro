@@ -5,7 +5,7 @@ import (
 	"sync"
 	"time"
 
-	"go-micro.dev/v4/util/ring"
+	"letui-micro/util/ring"
 )
 
 type stats struct {

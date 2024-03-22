@@ -10,9 +10,9 @@ import (
 
 	"github.com/gorilla/handlers"
 
-	"go-micro.dev/v4/api/server"
-	"go-micro.dev/v4/api/server/cors"
-	log "go-micro.dev/v4/logger"
+	"letui-micro/api/server"
+	"letui-micro/api/server/cors"
+	log "letui-micro/logger"
 )
 
 type httpServer struct {

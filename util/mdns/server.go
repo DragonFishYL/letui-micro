@@ -9,9 +9,9 @@ import (
 	"time"
 
 	"github.com/miekg/dns"
-	log "go-micro.dev/v4/logger"
 	"golang.org/x/net/ipv4"
 	"golang.org/x/net/ipv6"
+	log "letui-micro/logger"
 )
 
 var (

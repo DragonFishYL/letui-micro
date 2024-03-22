@@ -8,7 +8,7 @@ import (
 	"reflect"
 	"testing"
 
-	"go-micro.dev/v4/logger"
+	"letui-micro/logger"
 )
 
 func TestTokenize(t *testing.T) {

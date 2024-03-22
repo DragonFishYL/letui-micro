@@ -1,7 +1,7 @@
 package memory
 
 import (
-	"go-micro.dev/v4/config/source"
+	"letui-micro/config/source"
 )
 
 type watcher struct {

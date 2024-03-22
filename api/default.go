@@ -3,11 +3,11 @@ package api
 import (
 	"context"
 
-	"go-micro.dev/v4/api/handler"
-	"go-micro.dev/v4/api/handler/rpc"
-	"go-micro.dev/v4/api/router/registry"
-	"go-micro.dev/v4/api/server"
-	"go-micro.dev/v4/api/server/http"
+	"letui-micro/api/handler"
+	"letui-micro/api/handler/rpc"
+	"letui-micro/api/router/registry"
+	"letui-micro/api/server"
+	"letui-micro/api/server/http"
 )
 
 type api struct {

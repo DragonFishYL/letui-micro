@@ -5,10 +5,10 @@ import (
 	"strings"
 	"time"
 
-	log "go-micro.dev/v4/logger"
-	"go-micro.dev/v4/runtime"
-	"go-micro.dev/v4/util/kubernetes/api"
-	"go-micro.dev/v4/util/kubernetes/client"
+	log "letui-micro/logger"
+	"letui-micro/runtime"
+	"letui-micro/util/kubernetes/api"
+	"letui-micro/util/kubernetes/client"
 )
 
 type service struct {

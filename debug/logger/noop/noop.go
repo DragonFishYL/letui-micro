@@ -1,6 +1,6 @@
 package noop
 
-import "go-micro.dev/v4/debug/logger"
+import "letui-micro/debug/logger"
 
 type noop struct{}
 

@@ -4,8 +4,8 @@ package micro
 import (
 	"context"
 
-	"go-micro.dev/v4/client"
-	"go-micro.dev/v4/server"
+	"letui-micro/client"
+	"letui-micro/server"
 )
 
 type serviceKey struct{}

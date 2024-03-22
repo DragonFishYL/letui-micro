@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"go-micro.dev/v4/metadata"
+	"letui-micro/metadata"
 )
 
 func TestCache(t *testing.T) {

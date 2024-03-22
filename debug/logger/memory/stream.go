@@ -1,6 +1,6 @@
 package memory
 
-import "go-micro.dev/v4/debug/logger"
+import "letui-micro/debug/logger"
 
 type logStream struct {
 	stream <-chan logger.Record

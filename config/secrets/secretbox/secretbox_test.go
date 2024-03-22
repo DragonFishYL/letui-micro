@@ -5,7 +5,7 @@ import (
 	"reflect"
 	"testing"
 
-	"go-micro.dev/v4/config/secrets"
+	"letui-micro/config/secrets"
 )
 
 func TestSecretBox(t *testing.T) {

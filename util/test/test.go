@@ -1,7 +1,7 @@
 package test
 
 import (
-	"go-micro.dev/v4/registry"
+	"letui-micro/registry"
 )
 
 var (

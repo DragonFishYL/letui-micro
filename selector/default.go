@@ -3,8 +3,8 @@ package selector
 import (
 	"time"
 
-	"go-micro.dev/v4/registry"
-	"go-micro.dev/v4/registry/cache"
+	"letui-micro/registry"
+	"letui-micro/registry/cache"
 )
 
 type registrySelector struct {

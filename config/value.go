@@ -3,7 +3,7 @@ package config
 import (
 	"time"
 
-	"go-micro.dev/v4/config/reader"
+	"letui-micro/config/reader"
 )
 
 type value struct{}

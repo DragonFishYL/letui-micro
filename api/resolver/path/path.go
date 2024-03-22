@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"strings"
 
-	"go-micro.dev/v4/api/resolver"
+	"letui-micro/api/resolver"
 )
 
 type Resolver struct {

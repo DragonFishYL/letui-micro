@@ -7,9 +7,9 @@ import (
 	"io"
 	"os"
 
-	"go-micro.dev/v4/client"
-	"go-micro.dev/v4/logger"
-	proto "go-micro.dev/v4/util/file/proto"
+	"letui-micro/client"
+	"letui-micro/logger"
+	proto "letui-micro/util/file/proto"
 )
 
 // Client is the client interface to access files

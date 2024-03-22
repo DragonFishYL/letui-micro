@@ -1,7 +1,7 @@
 package http
 
 import (
-	"go-micro.dev/v4/registry"
+	"letui-micro/registry"
 )
 
 type Options struct {

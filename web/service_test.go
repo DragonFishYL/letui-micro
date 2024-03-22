@@ -11,7 +11,7 @@ import (
 	"testing"
 	"time"
 
-	"go-micro.dev/v4/registry"
+	"letui-micro/registry"
 )
 
 func TestService(t *testing.T) {

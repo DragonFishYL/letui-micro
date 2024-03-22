@@ -3,8 +3,8 @@ package box
 
 import (
 	"github.com/pkg/errors"
-	"go-micro.dev/v4/config/secrets"
 	naclbox "golang.org/x/crypto/nacl/box"
+	"letui-micro/config/secrets"
 
 	"crypto/rand"
 )

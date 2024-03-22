@@ -10,12 +10,12 @@ import (
 	"sync"
 	"time"
 
-	"go-micro.dev/v4/api/router"
-	"go-micro.dev/v4/api/router/util"
-	log "go-micro.dev/v4/logger"
-	"go-micro.dev/v4/metadata"
-	"go-micro.dev/v4/registry"
-	"go-micro.dev/v4/registry/cache"
+	"letui-micro/api/router"
+	"letui-micro/api/router/util"
+	log "letui-micro/logger"
+	"letui-micro/metadata"
+	"letui-micro/registry"
+	"letui-micro/registry/cache"
 )
 
 // endpoint struct, that holds compiled pcre

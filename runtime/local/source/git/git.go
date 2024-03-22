@@ -2,12 +2,12 @@
 package git
 
 import (
+	"github.com/go-git/go-git/v5"
 	"os"
 	"path/filepath"
 	"strings"
 
-	"github.com/go-git/go-git/v5"
-	"go-micro.dev/v4/runtime/local/source"
+	"letui-micro/runtime/local/source"
 )
 
 // Source retrieves source code

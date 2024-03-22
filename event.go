@@ -3,7 +3,7 @@ package micro
 import (
 	"context"
 
-	"go-micro.dev/v4/client"
+	"letui-micro/client"
 )
 
 type event struct {

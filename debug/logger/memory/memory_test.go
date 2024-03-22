@@ -1,7 +1,7 @@
 package memory
 
 import (
-	"go-micro.dev/v4/debug/logger"
+	"letui-micro/debug/logger"
 	"reflect"
 	"testing"
 )

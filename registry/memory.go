@@ -6,7 +6,7 @@ import (
 
 	"github.com/google/uuid"
 
-	log "go-micro.dev/v4/logger"
+	log "letui-micro/logger"
 )
 
 var (

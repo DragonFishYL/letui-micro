@@ -6,12 +6,12 @@ import (
 	rtime "runtime"
 	"sync"
 
-	"go-micro.dev/v4/client"
-	log "go-micro.dev/v4/logger"
-	"go-micro.dev/v4/server"
-	"go-micro.dev/v4/store"
-	"go-micro.dev/v4/util/cmd"
-	signalutil "go-micro.dev/v4/util/signal"
+	"letui-micro/client"
+	log "letui-micro/logger"
+	"letui-micro/server"
+	"letui-micro/store"
+	"letui-micro/util/cmd"
+	signalutil "letui-micro/util/signal"
 )
 
 type service struct {

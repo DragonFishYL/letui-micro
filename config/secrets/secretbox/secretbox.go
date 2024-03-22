@@ -4,8 +4,8 @@ package secretbox
 
 import (
 	"github.com/pkg/errors"
-	"go-micro.dev/v4/config/secrets"
 	"golang.org/x/crypto/nacl/secretbox"
+	"letui-micro/config/secrets"
 
 	"crypto/rand"
 )

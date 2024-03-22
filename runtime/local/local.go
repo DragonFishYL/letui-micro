@@ -2,7 +2,7 @@
 package local
 
 import (
-	"go-micro.dev/v4/runtime"
+	"letui-micro/runtime"
 )
 
 // NewRuntime returns a new local runtime

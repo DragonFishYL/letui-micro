@@ -7,17 +7,17 @@ import (
 	"time"
 
 	"github.com/google/uuid"
-	"go-micro.dev/v4/broker"
-	"go-micro.dev/v4/codec"
-	raw "go-micro.dev/v4/codec/bytes"
-	"go-micro.dev/v4/errors"
-	"go-micro.dev/v4/metadata"
-	"go-micro.dev/v4/registry"
-	"go-micro.dev/v4/selector"
-	"go-micro.dev/v4/transport"
-	"go-micro.dev/v4/util/buf"
-	"go-micro.dev/v4/util/net"
-	"go-micro.dev/v4/util/pool"
+	"letui-micro/broker"
+	"letui-micro/codec"
+	raw "letui-micro/codec/bytes"
+	"letui-micro/errors"
+	"letui-micro/metadata"
+	"letui-micro/registry"
+	"letui-micro/selector"
+	"letui-micro/transport"
+	"letui-micro/util/buf"
+	"letui-micro/util/net"
+	"letui-micro/util/pool"
 )
 
 type rpcClient struct {

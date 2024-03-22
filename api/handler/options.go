@@ -1,9 +1,9 @@
 package handler
 
 import (
-	"go-micro.dev/v4/api/router"
-	"go-micro.dev/v4/client"
-	"go-micro.dev/v4/logger"
+	"letui-micro/api/router"
+	"letui-micro/client"
+	"letui-micro/logger"
 )
 
 var (

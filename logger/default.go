@@ -10,7 +10,7 @@ import (
 	"sync"
 	"time"
 
-	dlog "go-micro.dev/v4/debug/logger"
+	dlog "letui-micro/debug/logger"
 )
 
 func init() {

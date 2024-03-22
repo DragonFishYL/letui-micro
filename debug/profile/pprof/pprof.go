@@ -8,7 +8,7 @@ import (
 	"runtime/pprof"
 	"sync"
 
-	"go-micro.dev/v4/debug/profile"
+	"letui-micro/debug/profile"
 )
 
 type profiler struct {
