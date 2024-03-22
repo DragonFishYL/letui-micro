@@ -3,7 +3,7 @@ package file
 import (
 	"strings"
 
-	"letui-micro/config/encoder"
+	"github.com/DragonFishYL/letui-micro/config/encoder"
 )
 
 func format(p string, e encoder.Encoder) string {

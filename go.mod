@@ -1,4 +1,4 @@
-module letui-micro
+module github.com/DragonFishYL/letui-micro
 
 go 1.21.6
 

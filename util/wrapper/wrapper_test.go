@@ -5,10 +5,10 @@ import (
 	"reflect"
 	"testing"
 
-	"letui-micro/auth"
-	"letui-micro/client"
-	"letui-micro/metadata"
-	"letui-micro/server"
+	"github.com/DragonFishYL/letui-micro/auth"
+	"github.com/DragonFishYL/letui-micro/client"
+	"github.com/DragonFishYL/letui-micro/metadata"
+	"github.com/DragonFishYL/letui-micro/server"
 )
 
 func TestWrapper(t *testing.T) {

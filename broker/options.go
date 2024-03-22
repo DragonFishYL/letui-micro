@@ -4,9 +4,9 @@ import (
 	"context"
 	"crypto/tls"
 
-	"letui-micro/codec"
-	"letui-micro/logger"
-	"letui-micro/registry"
+	"github.com/DragonFishYL/letui-micro/codec"
+	"github.com/DragonFishYL/letui-micro/logger"
+	"github.com/DragonFishYL/letui-micro/registry"
 )
 
 type Options struct {

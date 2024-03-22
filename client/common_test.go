@@ -1,7 +1,7 @@
 package client
 
 import (
-	"letui-micro/registry"
+	"github.com/DragonFishYL/letui-micro/registry"
 )
 
 var (

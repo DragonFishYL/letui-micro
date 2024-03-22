@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"letui-micro/broker"
+	"github.com/DragonFishYL/letui-micro/broker"
 )
 
 func TestMemoryBroker(t *testing.T) {

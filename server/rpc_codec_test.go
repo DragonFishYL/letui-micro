@@ -5,8 +5,8 @@ import (
 	"errors"
 	"testing"
 
-	"letui-micro/codec"
-	"letui-micro/transport"
+	"github.com/DragonFishYL/letui-micro/codec"
+	"github.com/DragonFishYL/letui-micro/transport"
 )
 
 // testCodec is a dummy codec that only knows how to encode nil bodies

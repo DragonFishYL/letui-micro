@@ -2,7 +2,7 @@
 package build
 
 import (
-	"letui-micro/runtime/local/source"
+	"github.com/DragonFishYL/letui-micro/runtime/local/source"
 )
 
 // Builder builds binaries

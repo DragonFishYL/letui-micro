@@ -3,7 +3,7 @@ package client
 import (
 	"context"
 
-	"letui-micro/errors"
+	"github.com/DragonFishYL/letui-micro/errors"
 )
 
 // note that returning either false or a non-nil error will result in the call not being retried

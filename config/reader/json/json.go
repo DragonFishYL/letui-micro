@@ -5,10 +5,10 @@ import (
 	"time"
 
 	"dario.cat/mergo"
-	"letui-micro/config/encoder"
-	"letui-micro/config/encoder/json"
-	"letui-micro/config/reader"
-	"letui-micro/config/source"
+	"github.com/DragonFishYL/letui-micro/config/encoder"
+	"github.com/DragonFishYL/letui-micro/config/encoder/json"
+	"github.com/DragonFishYL/letui-micro/config/reader"
+	"github.com/DragonFishYL/letui-micro/config/source"
 )
 
 type jsonReader struct {

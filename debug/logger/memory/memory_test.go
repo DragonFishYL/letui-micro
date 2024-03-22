@@ -1,7 +1,7 @@
 package memory
 
 import (
-	"letui-micro/debug/logger"
+	"github.com/DragonFishYL/letui-micro/debug/logger"
 	"reflect"
 	"testing"
 )

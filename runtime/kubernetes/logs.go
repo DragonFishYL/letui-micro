@@ -9,9 +9,9 @@ import (
 	"strconv"
 	"time"
 
-	"letui-micro/runtime"
-	"letui-micro/util/kubernetes/client"
-	"letui-micro/util/logger"
+	"github.com/DragonFishYL/letui-micro/runtime"
+	"github.com/DragonFishYL/letui-micro/util/kubernetes/client"
+	"github.com/DragonFishYL/letui-micro/util/logger"
 )
 
 type klog struct {

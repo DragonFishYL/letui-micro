@@ -5,7 +5,7 @@ import (
 	"sync"
 	"time"
 
-	"letui-micro/util/ring"
+	"github.com/DragonFishYL/letui-micro/util/ring"
 )
 
 type stats struct {

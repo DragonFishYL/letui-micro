@@ -8,7 +8,7 @@ import (
 	"runtime/pprof"
 	"sync"
 
-	"letui-micro/debug/profile"
+	"github.com/DragonFishYL/letui-micro/debug/profile"
 )
 
 type profiler struct {

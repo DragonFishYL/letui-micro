@@ -1,7 +1,7 @@
 package env
 
 import (
-	"letui-micro/config/source"
+	"github.com/DragonFishYL/letui-micro/config/source"
 )
 
 type watcher struct {

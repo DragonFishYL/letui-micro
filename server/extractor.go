@@ -5,7 +5,7 @@ import (
 	"reflect"
 	"strings"
 
-	"letui-micro/registry"
+	"github.com/DragonFishYL/letui-micro/registry"
 )
 
 func extractValue(v reflect.Type, d int) *registry.Value {

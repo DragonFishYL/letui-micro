@@ -4,7 +4,7 @@ package process
 import (
 	"io"
 
-	"letui-micro/runtime/local/build"
+	"github.com/DragonFishYL/letui-micro/runtime/local/build"
 )
 
 // Process manages a running process

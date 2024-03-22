@@ -3,7 +3,7 @@ package micro
 import (
 	"context"
 
-	"letui-micro/client"
+	"github.com/DragonFishYL/letui-micro/client"
 )
 
 type event struct {

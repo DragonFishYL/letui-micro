@@ -1,8 +1,8 @@
 package server
 
 import (
-	"letui-micro/broker"
-	"letui-micro/transport"
+	"github.com/DragonFishYL/letui-micro/broker"
+	"github.com/DragonFishYL/letui-micro/transport"
 )
 
 // event is a broker event we handle on the server transport

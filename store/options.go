@@ -4,8 +4,8 @@ import (
 	"context"
 	"time"
 
-	"letui-micro/client"
-	"letui-micro/logger"
+	"github.com/DragonFishYL/letui-micro/client"
+	"github.com/DragonFishYL/letui-micro/logger"
 )
 
 // Options contains configuration for the Store

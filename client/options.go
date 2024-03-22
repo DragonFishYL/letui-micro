@@ -4,12 +4,12 @@ import (
 	"context"
 	"time"
 
-	"letui-micro/broker"
-	"letui-micro/codec"
-	"letui-micro/logger"
-	"letui-micro/registry"
-	"letui-micro/selector"
-	"letui-micro/transport"
+	"github.com/DragonFishYL/letui-micro/broker"
+	"github.com/DragonFishYL/letui-micro/codec"
+	"github.com/DragonFishYL/letui-micro/logger"
+	"github.com/DragonFishYL/letui-micro/registry"
+	"github.com/DragonFishYL/letui-micro/selector"
+	"github.com/DragonFishYL/letui-micro/transport"
 )
 
 type Options struct {

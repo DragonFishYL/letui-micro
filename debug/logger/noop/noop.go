@@ -1,6 +1,6 @@
 package noop
 
-import "letui-micro/debug/logger"
+import "github.com/DragonFishYL/letui-micro/debug/logger"
 
 type noop struct{}
 

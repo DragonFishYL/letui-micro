@@ -6,7 +6,7 @@ import (
 
 	"github.com/google/uuid"
 
-	log "letui-micro/logger"
+	log "github.com/DragonFishYL/letui-micro/logger"
 )
 
 var (

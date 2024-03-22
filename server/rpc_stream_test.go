@@ -9,9 +9,9 @@ import (
 	"testing"
 	"time"
 
+	"github.com/DragonFishYL/letui-micro/codec/json"
+	protoCodec "github.com/DragonFishYL/letui-micro/codec/proto"
 	"github.com/golang/protobuf/proto"
-	"letui-micro/codec/json"
-	protoCodec "letui-micro/codec/proto"
 )
 
 // protoStruct implements proto.Message

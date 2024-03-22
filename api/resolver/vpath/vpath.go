@@ -7,7 +7,7 @@ import (
 	"regexp"
 	"strings"
 
-	"letui-micro/api/resolver"
+	"github.com/DragonFishYL/letui-micro/api/resolver"
 )
 
 func NewResolver(opts ...resolver.Option) resolver.Resolver {

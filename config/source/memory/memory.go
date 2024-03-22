@@ -5,8 +5,8 @@ import (
 	"sync"
 	"time"
 
+	"github.com/DragonFishYL/letui-micro/config/source"
 	"github.com/google/uuid"
-	"letui-micro/config/source"
 )
 
 type memory struct {

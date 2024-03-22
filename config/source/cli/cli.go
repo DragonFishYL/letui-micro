@@ -8,9 +8,9 @@ import (
 	"time"
 
 	"dario.cat/mergo"
+	"github.com/DragonFishYL/letui-micro/config/source"
+	"github.com/DragonFishYL/letui-micro/util/cmd"
 	"github.com/urfave/cli/v2"
-	"letui-micro/config/source"
-	"letui-micro/util/cmd"
 )
 
 type cliSource struct {

@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"strings"
 
-	log "letui-micro/logger"
+	log "github.com/DragonFishYL/letui-micro/logger"
 )
 
 // InvalidTemplateError indicates that the path template is not valid.

@@ -7,9 +7,9 @@ import (
 	"io"
 	"os"
 
-	"letui-micro/client"
-	"letui-micro/logger"
-	proto "letui-micro/util/file/proto"
+	"github.com/DragonFishYL/letui-micro/client"
+	"github.com/DragonFishYL/letui-micro/logger"
+	proto "github.com/DragonFishYL/letui-micro/util/file/proto"
 )
 
 // Client is the client interface to access files

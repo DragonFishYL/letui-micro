@@ -4,12 +4,12 @@ import (
 	"context"
 	"strings"
 
-	"letui-micro/auth"
-	"letui-micro/client"
-	"letui-micro/debug/stats"
-	"letui-micro/debug/trace"
-	"letui-micro/metadata"
-	"letui-micro/server"
+	"github.com/DragonFishYL/letui-micro/auth"
+	"github.com/DragonFishYL/letui-micro/client"
+	"github.com/DragonFishYL/letui-micro/debug/stats"
+	"github.com/DragonFishYL/letui-micro/debug/trace"
+	"github.com/DragonFishYL/letui-micro/metadata"
+	"github.com/DragonFishYL/letui-micro/server"
 )
 
 type fromServiceWrapper struct {

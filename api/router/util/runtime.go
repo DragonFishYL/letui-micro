@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"strings"
 
-	log "letui-micro/logger"
+	log "github.com/DragonFishYL/letui-micro/logger"
 )
 
 var (

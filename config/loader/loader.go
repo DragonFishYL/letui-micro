@@ -4,8 +4,8 @@ package loader
 import (
 	"context"
 
-	"letui-micro/config/reader"
-	"letui-micro/config/source"
+	"github.com/DragonFishYL/letui-micro/config/reader"
+	"github.com/DragonFishYL/letui-micro/config/source"
 )
 
 // Loader manages loading sources

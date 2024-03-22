@@ -12,8 +12,8 @@ import (
 	"regexp"
 	"strings"
 
-	"letui-micro/logger"
-	"letui-micro/util/kubernetes/api"
+	"github.com/DragonFishYL/letui-micro/logger"
+	"github.com/DragonFishYL/letui-micro/util/kubernetes/api"
 )
 
 var (

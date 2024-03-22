@@ -1,7 +1,7 @@
 package selector
 
 import (
-	"letui-micro/registry"
+	"github.com/DragonFishYL/letui-micro/registry"
 )
 
 var (

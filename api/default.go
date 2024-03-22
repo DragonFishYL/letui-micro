@@ -3,11 +3,11 @@ package api
 import (
 	"context"
 
-	"letui-micro/api/handler"
-	"letui-micro/api/handler/rpc"
-	"letui-micro/api/router/registry"
-	"letui-micro/api/server"
-	"letui-micro/api/server/http"
+	"github.com/DragonFishYL/letui-micro/api/handler"
+	"github.com/DragonFishYL/letui-micro/api/handler/rpc"
+	"github.com/DragonFishYL/letui-micro/api/router/registry"
+	"github.com/DragonFishYL/letui-micro/api/server"
+	"github.com/DragonFishYL/letui-micro/api/server/http"
 )
 
 type api struct {

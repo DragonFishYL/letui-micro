@@ -6,9 +6,9 @@ import (
 	"net/http"
 	"time"
 
-	"letui-micro"
-	"letui-micro/logger"
-	"letui-micro/registry"
+	"github.com/DragonFishYL/letui-micro"
+	"github.com/DragonFishYL/letui-micro/logger"
+	"github.com/DragonFishYL/letui-micro/registry"
 )
 
 // Options for web

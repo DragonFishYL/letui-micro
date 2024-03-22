@@ -6,12 +6,12 @@ import (
 	rtime "runtime"
 	"sync"
 
-	"letui-micro/client"
-	log "letui-micro/logger"
-	"letui-micro/server"
-	"letui-micro/store"
-	"letui-micro/util/cmd"
-	signalutil "letui-micro/util/signal"
+	"github.com/DragonFishYL/letui-micro/client"
+	log "github.com/DragonFishYL/letui-micro/logger"
+	"github.com/DragonFishYL/letui-micro/server"
+	"github.com/DragonFishYL/letui-micro/store"
+	"github.com/DragonFishYL/letui-micro/util/cmd"
+	signalutil "github.com/DragonFishYL/letui-micro/util/signal"
 )
 
 type service struct {

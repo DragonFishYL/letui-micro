@@ -2,9 +2,9 @@ package http
 
 import (
 	"fmt"
+	"github.com/DragonFishYL/letui-micro/api/server"
+	"github.com/DragonFishYL/letui-micro/api/server/cors"
 	"io"
-	"letui-micro/api/server"
-	"letui-micro/api/server/cors"
 	"net/http"
 	"testing"
 )

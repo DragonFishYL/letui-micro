@@ -6,9 +6,9 @@ import (
 	"sync"
 	"time"
 
+	"github.com/DragonFishYL/letui-micro/store"
 	"github.com/ef-ds/deque"
 	"github.com/pkg/errors"
-	"letui-micro/store"
 )
 
 // Sync implements a sync in for stores

@@ -1,10 +1,10 @@
 package router
 
 import (
-	"letui-micro/api/resolver"
-	"letui-micro/api/resolver/vpath"
-	"letui-micro/logger"
-	"letui-micro/registry"
+	"github.com/DragonFishYL/letui-micro/api/resolver"
+	"github.com/DragonFishYL/letui-micro/api/resolver/vpath"
+	"github.com/DragonFishYL/letui-micro/logger"
+	"github.com/DragonFishYL/letui-micro/registry"
 )
 
 type Options struct {

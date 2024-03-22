@@ -10,7 +10,7 @@ import (
 	"net/http"
 	"net/url"
 
-	"letui-micro/logger"
+	"github.com/DragonFishYL/letui-micro/logger"
 )
 
 // Request is used to construct a http request for the k8s API.

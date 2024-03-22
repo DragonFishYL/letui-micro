@@ -3,7 +3,7 @@ package pool
 import (
 	"time"
 
-	"letui-micro/transport"
+	"github.com/DragonFishYL/letui-micro/transport"
 )
 
 type Options struct {

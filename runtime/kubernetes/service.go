@@ -5,10 +5,10 @@ import (
 	"strings"
 	"time"
 
-	log "letui-micro/logger"
-	"letui-micro/runtime"
-	"letui-micro/util/kubernetes/api"
-	"letui-micro/util/kubernetes/client"
+	log "github.com/DragonFishYL/letui-micro/logger"
+	"github.com/DragonFishYL/letui-micro/runtime"
+	"github.com/DragonFishYL/letui-micro/util/kubernetes/api"
+	"github.com/DragonFishYL/letui-micro/util/kubernetes/client"
 )
 
 type service struct {

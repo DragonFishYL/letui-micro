@@ -1,7 +1,7 @@
 package http
 
 import (
-	"letui-micro/registry"
+	"github.com/DragonFishYL/letui-micro/registry"
 )
 
 type Options struct {

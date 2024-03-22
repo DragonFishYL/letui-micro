@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"testing"
 
-	"letui-micro/errors"
-	"letui-micro/registry"
-	"letui-micro/selector"
+	"github.com/DragonFishYL/letui-micro/errors"
+	"github.com/DragonFishYL/letui-micro/registry"
+	"github.com/DragonFishYL/letui-micro/selector"
 )
 
 func newTestRegistry() registry.Registry {

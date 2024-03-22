@@ -8,8 +8,8 @@ import (
 	"strconv"
 	"sync"
 
+	"github.com/DragonFishYL/letui-micro/codec"
 	"github.com/golang/protobuf/proto"
-	"letui-micro/codec"
 )
 
 type flusher interface {

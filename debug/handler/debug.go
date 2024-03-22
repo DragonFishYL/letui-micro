@@ -3,14 +3,14 @@ package handler
 
 import (
 	"context"
-	"letui-micro/debug/logger"
+	"github.com/DragonFishYL/letui-micro/debug/logger"
 	"time"
 
-	"letui-micro/client"
-	proto "letui-micro/debug/proto"
-	"letui-micro/debug/stats"
-	"letui-micro/debug/trace"
-	"letui-micro/server"
+	"github.com/DragonFishYL/letui-micro/client"
+	proto "github.com/DragonFishYL/letui-micro/debug/proto"
+	"github.com/DragonFishYL/letui-micro/debug/stats"
+	"github.com/DragonFishYL/letui-micro/debug/trace"
+	"github.com/DragonFishYL/letui-micro/server"
 )
 
 // NewHandler returns an instance of the Debug Handler

@@ -6,7 +6,7 @@ import (
 	"os/exec"
 	"path/filepath"
 
-	"letui-micro/runtime/local/build"
+	"github.com/DragonFishYL/letui-micro/runtime/local/build"
 )
 
 type Builder struct {

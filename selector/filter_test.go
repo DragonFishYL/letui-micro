@@ -3,7 +3,7 @@ package selector
 import (
 	"testing"
 
-	"letui-micro/registry"
+	"github.com/DragonFishYL/letui-micro/registry"
 )
 
 func TestFilterEndpoint(t *testing.T) {

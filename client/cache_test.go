@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"letui-micro/metadata"
+	"github.com/DragonFishYL/letui-micro/metadata"
 )
 
 func TestCache(t *testing.T) {

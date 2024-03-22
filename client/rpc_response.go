@@ -1,8 +1,8 @@
 package client
 
 import (
-	"letui-micro/codec"
-	"letui-micro/transport"
+	"github.com/DragonFishYL/letui-micro/codec"
+	"github.com/DragonFishYL/letui-micro/transport"
 )
 
 type rpcResponse struct {

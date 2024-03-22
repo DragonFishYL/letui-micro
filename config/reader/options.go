@@ -1,8 +1,8 @@
 package reader
 
 import (
-	"letui-micro/config/encoder"
-	"letui-micro/config/encoder/json"
+	"github.com/DragonFishYL/letui-micro/config/encoder"
+	"github.com/DragonFishYL/letui-micro/config/encoder/json"
 )
 
 type Options struct {

@@ -17,8 +17,8 @@ import (
 
 	"github.com/google/uuid"
 
-	log "letui-micro/logger"
-	"letui-micro/util/mdns"
+	log "github.com/DragonFishYL/letui-micro/logger"
+	"github.com/DragonFishYL/letui-micro/util/mdns"
 )
 
 var (

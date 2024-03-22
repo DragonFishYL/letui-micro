@@ -5,9 +5,9 @@ import (
 	"testing"
 	"time"
 
+	"github.com/DragonFishYL/letui-micro/broker"
+	"github.com/DragonFishYL/letui-micro/registry"
 	"github.com/google/uuid"
-	"letui-micro/broker"
-	"letui-micro/registry"
 )
 
 var (

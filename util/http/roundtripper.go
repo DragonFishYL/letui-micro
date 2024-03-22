@@ -4,7 +4,7 @@ import (
 	"errors"
 	"net/http"
 
-	"letui-micro/selector"
+	"github.com/DragonFishYL/letui-micro/selector"
 )
 
 type roundTripper struct {

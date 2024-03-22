@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"strings"
 
-	"letui-micro/api/resolver"
+	"github.com/DragonFishYL/letui-micro/api/resolver"
 )
 
 type Resolver struct{}

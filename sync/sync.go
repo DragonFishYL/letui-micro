@@ -7,7 +7,7 @@ import (
 	"errors"
 	"time"
 
-	"letui-micro/logger"
+	"github.com/DragonFishYL/letui-micro/logger"
 )
 
 var (

@@ -7,7 +7,7 @@ import (
 	"os/exec"
 	"strconv"
 
-	"letui-micro/runtime/local/process"
+	"github.com/DragonFishYL/letui-micro/runtime/local/process"
 )
 
 func (p *Process) Exec(exe *process.Executable) error {

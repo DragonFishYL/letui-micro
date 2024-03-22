@@ -4,7 +4,7 @@ import (
 	"dario.cat/mergo"
 	"errors"
 	"flag"
-	"letui-micro/config/source"
+	"github.com/DragonFishYL/letui-micro/config/source"
 	"strings"
 	"time"
 )

@@ -2,7 +2,7 @@
 package local
 
 import (
-	"letui-micro/runtime"
+	"github.com/DragonFishYL/letui-micro/runtime"
 )
 
 // NewRuntime returns a new local runtime

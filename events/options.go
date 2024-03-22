@@ -3,7 +3,7 @@ package events
 import (
 	"time"
 
-	"letui-micro/logger"
+	"github.com/DragonFishYL/letui-micro/logger"
 )
 
 type Options struct {

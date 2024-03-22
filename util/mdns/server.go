@@ -8,10 +8,10 @@ import (
 	"sync/atomic"
 	"time"
 
+	log "github.com/DragonFishYL/letui-micro/logger"
 	"github.com/miekg/dns"
 	"golang.org/x/net/ipv4"
 	"golang.org/x/net/ipv6"
-	log "letui-micro/logger"
 )
 
 var (

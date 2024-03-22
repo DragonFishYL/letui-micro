@@ -8,9 +8,9 @@ import (
 	"net/http/httputil"
 	"net/url"
 
-	"letui-micro/api/handler"
-	"letui-micro/api/router"
-	"letui-micro/selector"
+	"github.com/DragonFishYL/letui-micro/api/handler"
+	"github.com/DragonFishYL/letui-micro/api/router"
+	"github.com/DragonFishYL/letui-micro/selector"
 )
 
 const (

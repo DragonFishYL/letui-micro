@@ -3,8 +3,8 @@ package sync
 import (
 	"time"
 
+	"github.com/DragonFishYL/letui-micro/store"
 	"github.com/pkg/errors"
-	"letui-micro/store"
 )
 
 type operation struct {

@@ -3,9 +3,9 @@ package source
 import (
 	"context"
 
-	"letui-micro/client"
-	"letui-micro/config/encoder"
-	"letui-micro/config/encoder/json"
+	"github.com/DragonFishYL/letui-micro/client"
+	"github.com/DragonFishYL/letui-micro/config/encoder"
+	"github.com/DragonFishYL/letui-micro/config/encoder/json"
 )
 
 type Options struct {

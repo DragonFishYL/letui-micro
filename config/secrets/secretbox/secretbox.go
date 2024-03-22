@@ -3,9 +3,9 @@
 package secretbox
 
 import (
+	"github.com/DragonFishYL/letui-micro/config/secrets"
 	"github.com/pkg/errors"
 	"golang.org/x/crypto/nacl/secretbox"
-	"letui-micro/config/secrets"
 
 	"crypto/rand"
 )

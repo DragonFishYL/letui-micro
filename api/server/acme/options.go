@@ -3,7 +3,7 @@ package acme
 import (
 	"github.com/go-acme/lego/v4/challenge"
 
-	"letui-micro/logger"
+	"github.com/DragonFishYL/letui-micro/logger"
 )
 
 // Option (or Options) are passed to New() to configure providers

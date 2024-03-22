@@ -4,8 +4,8 @@ import (
 	"context"
 	"time"
 
+	"github.com/DragonFishYL/letui-micro/util/ring"
 	"github.com/google/uuid"
-	"letui-micro/util/ring"
 )
 
 type memTracer struct {

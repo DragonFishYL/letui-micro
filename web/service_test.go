@@ -11,7 +11,7 @@ import (
 	"testing"
 	"time"
 
-	"letui-micro/registry"
+	"github.com/DragonFishYL/letui-micro/registry"
 )
 
 func TestService(t *testing.T) {

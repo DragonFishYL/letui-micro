@@ -6,8 +6,8 @@ package file
 import (
 	"os"
 
+	"github.com/DragonFishYL/letui-micro/config/source"
 	"github.com/fsnotify/fsnotify"
-	"letui-micro/config/source"
 )
 
 type watcher struct {

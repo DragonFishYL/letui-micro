@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"io"
 
-	"letui-micro/codec"
+	"github.com/DragonFishYL/letui-micro/codec"
 )
 
 type jsonCodec struct {

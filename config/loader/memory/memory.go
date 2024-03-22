@@ -9,10 +9,10 @@ import (
 	"sync"
 	"time"
 
-	"letui-micro/config/loader"
-	"letui-micro/config/reader"
-	"letui-micro/config/reader/json"
-	"letui-micro/config/source"
+	"github.com/DragonFishYL/letui-micro/config/loader"
+	"github.com/DragonFishYL/letui-micro/config/reader"
+	"github.com/DragonFishYL/letui-micro/config/reader/json"
+	"github.com/DragonFishYL/letui-micro/config/source"
 )
 
 type memory struct {

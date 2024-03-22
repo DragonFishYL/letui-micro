@@ -18,10 +18,10 @@ import (
 	"unicode"
 	"unicode/utf8"
 
-	"letui-micro/codec"
-	merrors "letui-micro/errors"
+	"github.com/DragonFishYL/letui-micro/codec"
+	merrors "github.com/DragonFishYL/letui-micro/errors"
 
-	log "letui-micro/logger"
+	log "github.com/DragonFishYL/letui-micro/logger"
 )
 
 var (

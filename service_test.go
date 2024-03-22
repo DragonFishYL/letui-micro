@@ -7,13 +7,13 @@ import (
 	"sync"
 	"testing"
 
-	"letui-micro/client"
-	"letui-micro/debug/handler"
-	proto "letui-micro/debug/proto"
-	"letui-micro/registry"
-	"letui-micro/server"
-	"letui-micro/transport"
-	"letui-micro/util/test"
+	"github.com/DragonFishYL/letui-micro/client"
+	"github.com/DragonFishYL/letui-micro/debug/handler"
+	proto "github.com/DragonFishYL/letui-micro/debug/proto"
+	"github.com/DragonFishYL/letui-micro/registry"
+	"github.com/DragonFishYL/letui-micro/server"
+	"github.com/DragonFishYL/letui-micro/transport"
+	"github.com/DragonFishYL/letui-micro/util/test"
 )
 
 func testShutdown(wg *sync.WaitGroup, cancel func()) {

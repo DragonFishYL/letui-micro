@@ -7,10 +7,10 @@ import (
 	"net/http"
 	"strings"
 
+	api "github.com/DragonFishYL/letui-micro/api/proto"
+	"github.com/DragonFishYL/letui-micro/registry"
+	"github.com/DragonFishYL/letui-micro/selector"
 	"github.com/oxtoacart/bpool"
-	api "letui-micro/api/proto"
-	"letui-micro/registry"
-	"letui-micro/selector"
 )
 
 var (

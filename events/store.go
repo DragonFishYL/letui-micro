@@ -6,8 +6,8 @@ import (
 
 	"github.com/pkg/errors"
 
-	log "letui-micro/logger"
-	"letui-micro/store"
+	log "github.com/DragonFishYL/letui-micro/logger"
+	"github.com/DragonFishYL/letui-micro/store"
 )
 
 const joinKey = "/"

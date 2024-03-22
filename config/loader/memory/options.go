@@ -1,9 +1,9 @@
 package memory
 
 import (
-	"letui-micro/config/loader"
-	"letui-micro/config/reader"
-	"letui-micro/config/source"
+	"github.com/DragonFishYL/letui-micro/config/loader"
+	"github.com/DragonFishYL/letui-micro/config/reader"
+	"github.com/DragonFishYL/letui-micro/config/source"
 )
 
 // WithSource appends a source to list of sources

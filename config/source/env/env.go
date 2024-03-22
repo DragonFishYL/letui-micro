@@ -7,7 +7,7 @@ import (
 	"time"
 
 	"dario.cat/mergo"
-	"letui-micro/config/source"
+	"github.com/DragonFishYL/letui-micro/config/source"
 )
 
 var (

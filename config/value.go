@@ -3,7 +3,7 @@ package config
 import (
 	"time"
 
-	"letui-micro/config/reader"
+	"github.com/DragonFishYL/letui-micro/config/reader"
 )
 
 type value struct{}

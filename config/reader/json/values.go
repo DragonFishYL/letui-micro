@@ -7,9 +7,9 @@ import (
 	"strings"
 	"time"
 
+	"github.com/DragonFishYL/letui-micro/config/reader"
+	"github.com/DragonFishYL/letui-micro/config/source"
 	simple "github.com/bitly/go-simplejson"
-	"letui-micro/config/reader"
-	"letui-micro/config/source"
 )
 
 type jsonValues struct {

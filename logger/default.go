@@ -10,7 +10,7 @@ import (
 	"sync"
 	"time"
 
-	dlog "letui-micro/debug/logger"
+	dlog "github.com/DragonFishYL/letui-micro/debug/logger"
 )
 
 func init() {

@@ -4,7 +4,7 @@ import (
 	"testing"
 	"time"
 
-	"letui-micro/transport"
+	"github.com/DragonFishYL/letui-micro/transport"
 )
 
 func testPool(t *testing.T, size int, ttl time.Duration) {

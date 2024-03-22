@@ -7,10 +7,10 @@ import (
 	"net/http"
 	"strings"
 
-	"letui-micro/logger"
-	"letui-micro/metadata"
-	"letui-micro/registry"
-	"letui-micro/selector"
+	"github.com/DragonFishYL/letui-micro/logger"
+	"github.com/DragonFishYL/letui-micro/metadata"
+	"github.com/DragonFishYL/letui-micro/registry"
+	"github.com/DragonFishYL/letui-micro/selector"
 )
 
 // Write sets the status and body on a http ResponseWriter

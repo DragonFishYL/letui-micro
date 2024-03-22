@@ -10,12 +10,12 @@ import (
 	"sync"
 	"time"
 
-	"letui-micro/api/router"
-	"letui-micro/api/router/util"
-	log "letui-micro/logger"
-	"letui-micro/metadata"
-	"letui-micro/registry"
-	"letui-micro/registry/cache"
+	"github.com/DragonFishYL/letui-micro/api/router"
+	"github.com/DragonFishYL/letui-micro/api/router/util"
+	log "github.com/DragonFishYL/letui-micro/logger"
+	"github.com/DragonFishYL/letui-micro/metadata"
+	"github.com/DragonFishYL/letui-micro/registry"
+	"github.com/DragonFishYL/letui-micro/registry/cache"
 )
 
 // endpoint struct, that holds compiled pcre

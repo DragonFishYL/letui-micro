@@ -5,7 +5,7 @@ import (
 	"crypto/tls"
 	"time"
 
-	"letui-micro/logger"
+	"github.com/DragonFishYL/letui-micro/logger"
 )
 
 // Nodes sets the addresses to use

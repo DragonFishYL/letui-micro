@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	"letui-micro/config/source"
+	"github.com/DragonFishYL/letui-micro/config/source"
 )
 
 func TestValues(t *testing.T) {

@@ -3,19 +3,19 @@ package cmd
 import (
 	"context"
 
-	"letui-micro/auth"
-	"letui-micro/broker"
-	"letui-micro/cache"
-	"letui-micro/client"
-	"letui-micro/config"
-	"letui-micro/debug/profile"
-	"letui-micro/debug/trace"
-	"letui-micro/registry"
-	"letui-micro/runtime"
-	"letui-micro/selector"
-	"letui-micro/server"
-	"letui-micro/store"
-	"letui-micro/transport"
+	"github.com/DragonFishYL/letui-micro/auth"
+	"github.com/DragonFishYL/letui-micro/broker"
+	"github.com/DragonFishYL/letui-micro/cache"
+	"github.com/DragonFishYL/letui-micro/client"
+	"github.com/DragonFishYL/letui-micro/config"
+	"github.com/DragonFishYL/letui-micro/debug/profile"
+	"github.com/DragonFishYL/letui-micro/debug/trace"
+	"github.com/DragonFishYL/letui-micro/registry"
+	"github.com/DragonFishYL/letui-micro/runtime"
+	"github.com/DragonFishYL/letui-micro/selector"
+	"github.com/DragonFishYL/letui-micro/server"
+	"github.com/DragonFishYL/letui-micro/store"
+	"github.com/DragonFishYL/letui-micro/transport"
 )
 
 type Options struct {

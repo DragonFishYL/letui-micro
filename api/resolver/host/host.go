@@ -4,7 +4,7 @@ package host
 import (
 	"net/http"
 
-	"letui-micro/api/resolver"
+	"github.com/DragonFishYL/letui-micro/api/resolver"
 )
 
 type Resolver struct {

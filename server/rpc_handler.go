@@ -3,7 +3,7 @@ package server
 import (
 	"reflect"
 
-	"letui-micro/registry"
+	"github.com/DragonFishYL/letui-micro/registry"
 )
 
 type rpcHandler struct {

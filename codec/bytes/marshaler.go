@@ -1,7 +1,7 @@
 package bytes
 
 import (
-	"letui-micro/codec"
+	"github.com/DragonFishYL/letui-micro/codec"
 )
 
 type Marshaler struct{}

@@ -4,10 +4,10 @@ package config
 import (
 	"context"
 
-	"letui-micro/config/loader"
-	"letui-micro/config/reader"
-	"letui-micro/config/source"
-	"letui-micro/config/source/file"
+	"github.com/DragonFishYL/letui-micro/config/loader"
+	"github.com/DragonFishYL/letui-micro/config/reader"
+	"github.com/DragonFishYL/letui-micro/config/source"
+	"github.com/DragonFishYL/letui-micro/config/source/file"
 )
 
 // Config is an interface abstraction for dynamic configuration

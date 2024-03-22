@@ -4,7 +4,7 @@ package selector
 import (
 	"errors"
 
-	"letui-micro/registry"
+	"github.com/DragonFishYL/letui-micro/registry"
 )
 
 // Selector builds on the registry as a mechanism to pick nodes

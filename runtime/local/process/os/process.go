@@ -2,7 +2,7 @@
 package os
 
 import (
-	"letui-micro/runtime/local/process"
+	"github.com/DragonFishYL/letui-micro/runtime/local/process"
 )
 
 type Process struct{}

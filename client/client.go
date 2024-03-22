@@ -5,7 +5,7 @@ import (
 	"context"
 	"time"
 
-	"letui-micro/codec"
+	"github.com/DragonFishYL/letui-micro/codec"
 )
 
 // Client is the interface used to make requests to services.

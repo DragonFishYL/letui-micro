@@ -4,7 +4,7 @@ package socket
 import (
 	"io"
 
-	"letui-micro/transport"
+	"github.com/DragonFishYL/letui-micro/transport"
 )
 
 // Socket is our pseudo socket for transport.Socket

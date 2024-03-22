@@ -1,7 +1,7 @@
 package registry
 
 import (
-	"letui-micro/registry"
+	"github.com/DragonFishYL/letui-micro/registry"
 )
 
 func addNodes(old, neu []*registry.Node) []*registry.Node {

@@ -4,8 +4,8 @@ import (
 	"errors"
 	"sync"
 
+	"github.com/DragonFishYL/letui-micro/server"
 	"github.com/google/uuid"
-	"letui-micro/server"
 )
 
 type MockServer struct {

@@ -5,7 +5,7 @@ import (
 
 	"strings"
 
-	"letui-micro/config/source"
+	"github.com/DragonFishYL/letui-micro/config/source"
 )
 
 type strippedPrefixKey struct{}

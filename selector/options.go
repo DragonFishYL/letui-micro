@@ -3,8 +3,8 @@ package selector
 import (
 	"context"
 
-	"letui-micro/logger"
-	"letui-micro/registry"
+	"github.com/DragonFishYL/letui-micro/logger"
+	"github.com/DragonFishYL/letui-micro/registry"
 )
 
 type Options struct {

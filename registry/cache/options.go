@@ -3,7 +3,7 @@ package cache
 import (
 	"time"
 
-	"letui-micro/logger"
+	"github.com/DragonFishYL/letui-micro/logger"
 )
 
 // WithTTL sets the cache TTL

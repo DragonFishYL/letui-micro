@@ -9,8 +9,8 @@ import (
 	"sync"
 	"time"
 
-	maddr "letui-micro/util/addr"
-	mnet "letui-micro/util/net"
+	maddr "github.com/DragonFishYL/letui-micro/util/addr"
+	mnet "github.com/DragonFishYL/letui-micro/util/net"
 )
 
 type memorySocket struct {

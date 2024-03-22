@@ -7,8 +7,8 @@ import (
 	"reflect"
 	"testing"
 
+	go_api "github.com/DragonFishYL/letui-micro/api/proto"
 	"github.com/golang/protobuf/proto"
-	go_api "letui-micro/api/proto"
 )
 
 func TestRequestPayloadFromRequest(t *testing.T) {

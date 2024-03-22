@@ -3,8 +3,8 @@ package selector
 import (
 	"time"
 
-	"letui-micro/registry"
-	"letui-micro/registry/cache"
+	"github.com/DragonFishYL/letui-micro/registry"
+	"github.com/DragonFishYL/letui-micro/registry/cache"
 )
 
 type registrySelector struct {

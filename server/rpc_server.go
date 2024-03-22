@@ -12,18 +12,18 @@ import (
 	"sync"
 	"time"
 
-	"letui-micro/broker"
-	"letui-micro/codec"
-	raw "letui-micro/codec/bytes"
+	"github.com/DragonFishYL/letui-micro/broker"
+	"github.com/DragonFishYL/letui-micro/codec"
+	raw "github.com/DragonFishYL/letui-micro/codec/bytes"
 
-	log "letui-micro/logger"
-	"letui-micro/metadata"
-	"letui-micro/registry"
-	"letui-micro/transport"
-	"letui-micro/util/addr"
-	"letui-micro/util/backoff"
-	mnet "letui-micro/util/net"
-	"letui-micro/util/socket"
+	log "github.com/DragonFishYL/letui-micro/logger"
+	"github.com/DragonFishYL/letui-micro/metadata"
+	"github.com/DragonFishYL/letui-micro/registry"
+	"github.com/DragonFishYL/letui-micro/transport"
+	"github.com/DragonFishYL/letui-micro/util/addr"
+	"github.com/DragonFishYL/letui-micro/util/backoff"
+	mnet "github.com/DragonFishYL/letui-micro/util/net"
+	"github.com/DragonFishYL/letui-micro/util/socket"
 )
 
 type rpcServer struct {

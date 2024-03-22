@@ -7,8 +7,8 @@ import (
 	"hash/fnv"
 	"time"
 
+	"github.com/DragonFishYL/letui-micro/metadata"
 	cache "github.com/patrickmn/go-cache"
-	"letui-micro/metadata"
 )
 
 // NewCache returns an initialised cache.

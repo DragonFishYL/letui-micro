@@ -3,7 +3,7 @@ package mock
 import (
 	"testing"
 
-	"letui-micro/server"
+	"github.com/DragonFishYL/letui-micro/server"
 )
 
 func TestMockServer(t *testing.T) {

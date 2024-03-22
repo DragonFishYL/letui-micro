@@ -4,8 +4,8 @@ package micro
 import (
 	"context"
 
-	"letui-micro/client"
-	"letui-micro/server"
+	"github.com/DragonFishYL/letui-micro/client"
+	"github.com/DragonFishYL/letui-micro/server"
 )
 
 type serviceKey struct{}

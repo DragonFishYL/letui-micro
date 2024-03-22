@@ -4,7 +4,7 @@ import (
 	"os"
 	"testing"
 
-	"letui-micro/registry"
+	"github.com/DragonFishYL/letui-micro/registry"
 )
 
 func TestRegistrySelector(t *testing.T) {

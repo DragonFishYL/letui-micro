@@ -1,7 +1,7 @@
 package api
 
 import (
-	"letui-micro/api/router"
+	"github.com/DragonFishYL/letui-micro/api/router"
 )
 
 func NewOptions(opts ...Option) Options {

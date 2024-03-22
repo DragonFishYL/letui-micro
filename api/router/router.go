@@ -4,7 +4,7 @@ package router
 import (
 	"net/http"
 
-	"letui-micro/registry"
+	"github.com/DragonFishYL/letui-micro/registry"
 )
 
 // Router is used to determine an endpoint for a request

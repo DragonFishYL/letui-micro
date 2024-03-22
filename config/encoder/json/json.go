@@ -3,7 +3,7 @@ package json
 import (
 	"encoding/json"
 
-	"letui-micro/config/encoder"
+	"github.com/DragonFishYL/letui-micro/config/encoder"
 )
 
 type jsonEncoder struct{}

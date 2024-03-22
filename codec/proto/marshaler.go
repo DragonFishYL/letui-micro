@@ -3,9 +3,9 @@ package proto
 import (
 	"bytes"
 
+	"github.com/DragonFishYL/letui-micro/codec"
 	"github.com/golang/protobuf/proto"
 	"github.com/oxtoacart/bpool"
-	"letui-micro/codec"
 )
 
 // create buffer pool with 16 instances each preallocated with 256 bytes

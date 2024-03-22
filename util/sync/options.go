@@ -3,7 +3,7 @@ package sync
 import (
 	"time"
 
-	"letui-micro/store"
+	"github.com/DragonFishYL/letui-micro/store"
 )
 
 // Options represents Sync options

@@ -8,10 +8,10 @@ import (
 
 	"golang.org/x/net/context"
 
-	"letui-micro/errors"
-	log "letui-micro/logger"
-	"letui-micro/server"
-	proto "letui-micro/util/file/proto"
+	"github.com/DragonFishYL/letui-micro/errors"
+	log "github.com/DragonFishYL/letui-micro/logger"
+	"github.com/DragonFishYL/letui-micro/server"
+	proto "github.com/DragonFishYL/letui-micro/util/file/proto"
 )
 
 // NewHandler is a handler that can be registered with a micro Server

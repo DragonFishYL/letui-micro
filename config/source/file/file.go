@@ -6,7 +6,7 @@ import (
 	"io/fs"
 	"os"
 
-	"letui-micro/config/source"
+	"github.com/DragonFishYL/letui-micro/config/source"
 )
 
 type file struct {

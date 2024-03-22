@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"letui-micro/config/source"
+	"github.com/DragonFishYL/letui-micro/config/source"
 )
 
 func TestEnv_Read(t *testing.T) {

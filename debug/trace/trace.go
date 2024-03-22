@@ -5,7 +5,7 @@ import (
 	"context"
 	"time"
 
-	"letui-micro/metadata"
+	"github.com/DragonFishYL/letui-micro/metadata"
 )
 
 // Tracer is an interface for distributed tracing

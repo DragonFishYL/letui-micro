@@ -5,7 +5,7 @@ import (
 	"sync"
 	"time"
 
-	"letui-micro/registry"
+	"github.com/DragonFishYL/letui-micro/registry"
 )
 
 func init() {

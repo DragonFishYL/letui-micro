@@ -6,7 +6,7 @@ import (
 	"io"
 	"sync"
 
-	"letui-micro/codec"
+	"github.com/DragonFishYL/letui-micro/codec"
 )
 
 type clientCodec struct {

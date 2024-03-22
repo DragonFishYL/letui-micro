@@ -5,10 +5,10 @@ import (
 	"os"
 	"testing"
 
-	"letui-micro"
-	"letui-micro/config"
-	"letui-micro/config/source"
-	"letui-micro/util/cmd"
+	"github.com/DragonFishYL/letui-micro"
+	"github.com/DragonFishYL/letui-micro/config"
+	"github.com/DragonFishYL/letui-micro/config/source"
+	"github.com/DragonFishYL/letui-micro/util/cmd"
 )
 
 func TestCliSourceDefault(t *testing.T) {

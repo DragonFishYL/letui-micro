@@ -12,16 +12,16 @@ import (
 	"sync"
 	"time"
 
-	"letui-micro"
+	"github.com/DragonFishYL/letui-micro"
 
-	log "letui-micro/logger"
-	"letui-micro/registry"
-	maddr "letui-micro/util/addr"
-	"letui-micro/util/backoff"
-	mhttp "letui-micro/util/http"
-	mnet "letui-micro/util/net"
-	signalutil "letui-micro/util/signal"
-	mls "letui-micro/util/tls"
+	log "github.com/DragonFishYL/letui-micro/logger"
+	"github.com/DragonFishYL/letui-micro/registry"
+	maddr "github.com/DragonFishYL/letui-micro/util/addr"
+	"github.com/DragonFishYL/letui-micro/util/backoff"
+	mhttp "github.com/DragonFishYL/letui-micro/util/http"
+	mnet "github.com/DragonFishYL/letui-micro/util/net"
+	signalutil "github.com/DragonFishYL/letui-micro/util/signal"
+	mls "github.com/DragonFishYL/letui-micro/util/tls"
 )
 
 type service struct {

@@ -9,9 +9,9 @@ import (
 
 	"golang.org/x/sync/singleflight"
 
-	log "letui-micro/logger"
-	"letui-micro/registry"
-	util "letui-micro/util/registry"
+	log "github.com/DragonFishYL/letui-micro/logger"
+	"github.com/DragonFishYL/letui-micro/registry"
+	util "github.com/DragonFishYL/letui-micro/util/registry"
 )
 
 // Cache is the registry cache interface

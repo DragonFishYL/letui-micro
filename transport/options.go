@@ -6,8 +6,8 @@ import (
 	"net"
 	"time"
 
-	"letui-micro/codec"
-	"letui-micro/logger"
+	"github.com/DragonFishYL/letui-micro/codec"
+	"github.com/DragonFishYL/letui-micro/logger"
 )
 
 type Options struct {

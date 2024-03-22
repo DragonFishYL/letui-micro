@@ -6,12 +6,12 @@ import (
 	"sync"
 	"time"
 
-	"letui-micro/broker"
-	"letui-micro/codec"
-	"letui-micro/debug/trace"
-	"letui-micro/logger"
-	"letui-micro/registry"
-	"letui-micro/transport"
+	"github.com/DragonFishYL/letui-micro/broker"
+	"github.com/DragonFishYL/letui-micro/codec"
+	"github.com/DragonFishYL/letui-micro/debug/trace"
+	"github.com/DragonFishYL/letui-micro/logger"
+	"github.com/DragonFishYL/letui-micro/registry"
+	"github.com/DragonFishYL/letui-micro/transport"
 )
 
 type RouterOptions struct {

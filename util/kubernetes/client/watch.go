@@ -7,7 +7,7 @@ import (
 	"errors"
 	"net/http"
 
-	"letui-micro/util/kubernetes/api"
+	"github.com/DragonFishYL/letui-micro/util/kubernetes/api"
 )
 
 const (

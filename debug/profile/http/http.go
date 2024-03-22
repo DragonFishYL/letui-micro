@@ -7,7 +7,7 @@ import (
 	"net/http/pprof"
 	"sync"
 
-	"letui-micro/debug/profile"
+	"github.com/DragonFishYL/letui-micro/debug/profile"
 )
 
 type httpProfile struct {

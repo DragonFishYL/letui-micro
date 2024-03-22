@@ -5,7 +5,7 @@ import (
 	"reflect"
 	"testing"
 
-	"letui-micro/config/secrets"
+	"github.com/DragonFishYL/letui-micro/config/secrets"
 )
 
 func TestSecretBox(t *testing.T) {

@@ -1,8 +1,8 @@
 package mock
 
 import (
-	"letui-micro/registry"
-	"letui-micro/server"
+	"github.com/DragonFishYL/letui-micro/registry"
+	"github.com/DragonFishYL/letui-micro/server"
 )
 
 type MockHandler struct {

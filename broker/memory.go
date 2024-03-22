@@ -9,9 +9,9 @@ import (
 
 	"github.com/google/uuid"
 
-	log "letui-micro/logger"
-	maddr "letui-micro/util/addr"
-	mnet "letui-micro/util/net"
+	log "github.com/DragonFishYL/letui-micro/logger"
+	maddr "github.com/DragonFishYL/letui-micro/util/addr"
+	mnet "github.com/DragonFishYL/letui-micro/util/net"
 )
 
 type memoryBroker struct {

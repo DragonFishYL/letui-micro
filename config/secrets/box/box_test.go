@@ -5,8 +5,8 @@ import (
 	"reflect"
 	"testing"
 
+	"github.com/DragonFishYL/letui-micro/config/secrets"
 	naclbox "golang.org/x/crypto/nacl/box"
-	"letui-micro/config/secrets"
 )
 
 func TestBox(t *testing.T) {

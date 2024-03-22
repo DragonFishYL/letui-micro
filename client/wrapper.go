@@ -3,7 +3,7 @@ package client
 import (
 	"context"
 
-	"letui-micro/registry"
+	"github.com/DragonFishYL/letui-micro/registry"
 )
 
 // CallFunc represents the individual call func

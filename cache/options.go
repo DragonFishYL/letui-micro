@@ -4,7 +4,7 @@ import (
 	"context"
 	"time"
 
-	"letui-micro/logger"
+	"github.com/DragonFishYL/letui-micro/logger"
 )
 
 // Options represents the options for the cache.

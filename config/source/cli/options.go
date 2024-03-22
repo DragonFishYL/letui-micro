@@ -4,7 +4,7 @@ import (
 	"context"
 	"github.com/urfave/cli/v2"
 
-	"letui-micro/config/source"
+	"github.com/DragonFishYL/letui-micro/config/source"
 )
 
 type contextKey struct{}

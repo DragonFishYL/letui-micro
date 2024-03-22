@@ -1,5 +1,5 @@
 // Package log is a global internal logger
-// DEPRECATED: this is frozen package, use letui-micro/logger
+// DEPRECATED: this is frozen package, use github.com/DragonFishYL/letui-micro/logger
 package logger
 
 import (
@@ -7,8 +7,8 @@ import (
 	"os"
 	"sync/atomic"
 
-	dlog "letui-micro/debug/logger"
-	nlog "letui-micro/logger"
+	dlog "github.com/DragonFishYL/letui-micro/debug/logger"
+	nlog "github.com/DragonFishYL/letui-micro/logger"
 )
 
 // level is a log level

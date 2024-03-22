@@ -1,9 +1,9 @@
 package config
 
 import (
-	"letui-micro/config/loader"
-	"letui-micro/config/reader"
-	"letui-micro/config/source"
+	"github.com/DragonFishYL/letui-micro/config/loader"
+	"github.com/DragonFishYL/letui-micro/config/reader"
+	"github.com/DragonFishYL/letui-micro/config/source"
 )
 
 // WithLoader sets the loader for manager config

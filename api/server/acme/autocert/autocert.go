@@ -9,8 +9,8 @@ import (
 
 	"golang.org/x/crypto/acme/autocert"
 
-	"letui-micro/api/server/acme"
-	log "letui-micro/logger"
+	"github.com/DragonFishYL/letui-micro/api/server/acme"
+	log "github.com/DragonFishYL/letui-micro/logger"
 )
 
 // autoCertACME is the ACME provider from golang.org/x/crypto/acme/autocert

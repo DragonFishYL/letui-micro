@@ -1,9 +1,9 @@
 package handler
 
 import (
-	"letui-micro/api/router"
-	"letui-micro/client"
-	"letui-micro/logger"
+	"github.com/DragonFishYL/letui-micro/api/router"
+	"github.com/DragonFishYL/letui-micro/client"
+	"github.com/DragonFishYL/letui-micro/logger"
 )
 
 var (

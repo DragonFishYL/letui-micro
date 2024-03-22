@@ -4,8 +4,8 @@ import (
 	"context"
 	"io"
 
-	"letui-micro/client"
-	"letui-micro/logger"
+	"github.com/DragonFishYL/letui-micro/client"
+	"github.com/DragonFishYL/letui-micro/logger"
 )
 
 type Option func(o *Options)

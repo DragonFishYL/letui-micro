@@ -3,9 +3,9 @@ package memory
 
 import (
 	"fmt"
-	"letui-micro/debug/logger"
+	"github.com/DragonFishYL/letui-micro/debug/logger"
 
-	"letui-micro/util/ring"
+	"github.com/DragonFishYL/letui-micro/util/ring"
 )
 
 var (

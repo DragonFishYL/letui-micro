@@ -1,7 +1,7 @@
 package client
 
 import (
-	"letui-micro/codec"
+	"github.com/DragonFishYL/letui-micro/codec"
 )
 
 type rpcRequest struct {

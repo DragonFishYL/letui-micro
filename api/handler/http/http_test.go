@@ -6,12 +6,12 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"letui-micro/api/handler"
-	"letui-micro/api/resolver"
-	"letui-micro/api/resolver/vpath"
-	"letui-micro/api/router"
-	regRouter "letui-micro/api/router/registry"
-	"letui-micro/registry"
+	"github.com/DragonFishYL/letui-micro/api/handler"
+	"github.com/DragonFishYL/letui-micro/api/resolver"
+	"github.com/DragonFishYL/letui-micro/api/resolver/vpath"
+	"github.com/DragonFishYL/letui-micro/api/router"
+	regRouter "github.com/DragonFishYL/letui-micro/api/router/registry"
+	"github.com/DragonFishYL/letui-micro/registry"
 )
 
 func testHttp(t *testing.T, path, service, ns string) {

@@ -5,10 +5,10 @@ import (
 	"context"
 	"sync"
 
-	"letui-micro/client"
-	"letui-micro/codec"
-	"letui-micro/metadata"
-	"letui-micro/server"
+	"github.com/DragonFishYL/letui-micro/client"
+	"github.com/DragonFishYL/letui-micro/codec"
+	"github.com/DragonFishYL/letui-micro/metadata"
+	"github.com/DragonFishYL/letui-micro/server"
 )
 
 type Stream interface {

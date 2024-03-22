@@ -4,7 +4,7 @@ package io
 import (
 	"io"
 
-	"letui-micro/transport"
+	"github.com/DragonFishYL/letui-micro/transport"
 )
 
 type rwc struct {

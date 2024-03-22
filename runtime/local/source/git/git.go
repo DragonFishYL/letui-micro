@@ -7,7 +7,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"letui-micro/runtime/local/source"
+	"github.com/DragonFishYL/letui-micro/runtime/local/source"
 )
 
 // Source retrieves source code

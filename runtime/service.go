@@ -8,10 +8,10 @@ import (
 	"sync"
 	"time"
 
-	log "letui-micro/logger"
-	"letui-micro/runtime/local/build"
-	"letui-micro/runtime/local/process"
-	proc "letui-micro/runtime/local/process/os"
+	log "github.com/DragonFishYL/letui-micro/logger"
+	"github.com/DragonFishYL/letui-micro/runtime/local/build"
+	"github.com/DragonFishYL/letui-micro/runtime/local/process"
+	proc "github.com/DragonFishYL/letui-micro/runtime/local/process/os"
 )
 
 type service struct {

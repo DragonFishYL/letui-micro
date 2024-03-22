@@ -9,10 +9,10 @@ import (
 	"testing"
 	"time"
 
-	"letui-micro/config/source"
-	"letui-micro/config/source/env"
-	"letui-micro/config/source/file"
-	"letui-micro/config/source/memory"
+	"github.com/DragonFishYL/letui-micro/config/source"
+	"github.com/DragonFishYL/letui-micro/config/source/env"
+	"github.com/DragonFishYL/letui-micro/config/source/file"
+	"github.com/DragonFishYL/letui-micro/config/source/memory"
 )
 
 func createFileForIssue18(t *testing.T, content string) *os.File {

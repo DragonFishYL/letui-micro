@@ -7,9 +7,9 @@ import (
 	"testing"
 	"time"
 
-	"letui-micro"
-	"letui-micro/logger"
-	"letui-micro/web"
+	"github.com/DragonFishYL/letui-micro"
+	"github.com/DragonFishYL/letui-micro/logger"
+	"github.com/DragonFishYL/letui-micro/web"
 )
 
 func TestWeb(t *testing.T) {

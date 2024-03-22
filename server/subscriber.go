@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"reflect"
 
-	"letui-micro/registry"
+	"github.com/DragonFishYL/letui-micro/registry"
 )
 
 const (

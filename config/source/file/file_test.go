@@ -8,8 +8,8 @@ import (
 	"testing/fstest"
 	"time"
 
-	"letui-micro/config"
-	"letui-micro/config/source/file"
+	"github.com/DragonFishYL/letui-micro/config"
+	"github.com/DragonFishYL/letui-micro/config/source/file"
 )
 
 func TestConfig(t *testing.T) {

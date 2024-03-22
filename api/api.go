@@ -7,9 +7,9 @@ import (
 	"regexp"
 	"strings"
 
-	"letui-micro/api/router"
-	"letui-micro/registry"
-	"letui-micro/server"
+	"github.com/DragonFishYL/letui-micro/api/router"
+	"github.com/DragonFishYL/letui-micro/registry"
+	"github.com/DragonFishYL/letui-micro/server"
 )
 
 // The gateway interface provides a way to

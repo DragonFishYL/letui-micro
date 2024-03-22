@@ -3,8 +3,8 @@ package logger
 import (
 	"sync"
 
+	"github.com/DragonFishYL/letui-micro/util/ring"
 	"github.com/google/uuid"
-	"letui-micro/util/ring"
 )
 
 // Should stream from OS

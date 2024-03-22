@@ -4,7 +4,7 @@ import (
 	"net/http"
 	"testing"
 
-	"letui-micro/metadata"
+	"github.com/DragonFishYL/letui-micro/metadata"
 )
 
 func TestRequestToContext(t *testing.T) {

@@ -5,7 +5,7 @@ import (
 	"reflect"
 	"testing"
 
-	"letui-micro/registry"
+	"github.com/DragonFishYL/letui-micro/registry"
 )
 
 type testHandler struct{}

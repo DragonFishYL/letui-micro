@@ -2,9 +2,9 @@
 package box
 
 import (
+	"github.com/DragonFishYL/letui-micro/config/secrets"
 	"github.com/pkg/errors"
 	naclbox "golang.org/x/crypto/nacl/box"
-	"letui-micro/config/secrets"
 
 	"crypto/rand"
 )

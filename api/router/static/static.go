@@ -8,12 +8,12 @@ import (
 	"strings"
 	"sync"
 
-	"letui-micro/api/router"
-	"letui-micro/api/router/util"
-	log "letui-micro/logger"
-	"letui-micro/metadata"
-	"letui-micro/registry"
-	rutil "letui-micro/util/registry"
+	"github.com/DragonFishYL/letui-micro/api/router"
+	"github.com/DragonFishYL/letui-micro/api/router/util"
+	log "github.com/DragonFishYL/letui-micro/logger"
+	"github.com/DragonFishYL/letui-micro/metadata"
+	"github.com/DragonFishYL/letui-micro/registry"
+	rutil "github.com/DragonFishYL/letui-micro/util/registry"
 )
 
 type endpoint struct {

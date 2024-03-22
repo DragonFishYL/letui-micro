@@ -4,7 +4,7 @@ package reader
 import (
 	"time"
 
-	"letui-micro/config/source"
+	"github.com/DragonFishYL/letui-micro/config/source"
 )
 
 // Reader is an interface for merging changesets

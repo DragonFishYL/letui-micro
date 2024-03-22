@@ -11,9 +11,9 @@ import (
 
 import (
 	context "context"
-	api "letui-micro/api"
-	client "letui-micro/client"
-	server "letui-micro/server"
+	api "github.com/DragonFishYL/letui-micro/api"
+	client "github.com/DragonFishYL/letui-micro/client"
+	server "github.com/DragonFishYL/letui-micro/server"
 )
 
 // Reference imports to suppress errors if they are not otherwise used.

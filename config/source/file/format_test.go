@@ -3,7 +3,7 @@ package file
 import (
 	"testing"
 
-	"letui-micro/config/source"
+	"github.com/DragonFishYL/letui-micro/config/source"
 )
 
 func TestFormat(t *testing.T) {
